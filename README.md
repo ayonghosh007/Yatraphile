@@ -188,7 +188,7 @@ code .
 
 ## 👨‍💻 Author
 
-**Archit Banerjee**
+**Ayon Ghosh,** **Archit Banerjee and** **Jit Dey** 
 
 B.Tech - Electronics and Communication Engineering
 
@@ -211,5 +211,5 @@ This project is developed for educational, learning, and portfolio purposes.
 ---
 
 <p align="center">
-  Made with ❤️ using HTML, CSS and JavaScript
+  Made using HTML, CSS and JavaScript
 </p>
